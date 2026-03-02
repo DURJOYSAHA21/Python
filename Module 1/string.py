@@ -26,3 +26,4 @@ print(D)
 print (name.find("Jac"))
 print (name.find("durj"))
 print(r"C:\Users\Durjoy\Documents")
+var ='01234567'
