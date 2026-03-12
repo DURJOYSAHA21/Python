@@ -15,4 +15,7 @@ print(df1["Artist"])
 print("\n")
 print(df1.iloc[0,0]) #position based search
 
-print(df1.loc[0,"Artist"])
+print(df1.loc[0,"Artist"])#label based
+
+print(df1.iloc[0:2, 0:3])
+print(df1.loc[0:2,["Artist"]])
